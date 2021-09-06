@@ -409,10 +409,11 @@ button {
 ********************/
 .story__note {
   margin: 0;
-  font-family: "stick";
+  
 }
 
 .story__note__outer {
+  font-family: "ステッキ";
   width: 860px;
   display: -webkit-box;
   display: -ms-flexbox;
