@@ -175,7 +175,8 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+  background-color: #D9E4F5;
+  background-image: linear-gradient(315deg, #D9E4F5 0%, #F5E3E6 74%);
   position: absolute;
   top: -10px;
   left: 30px;
@@ -274,7 +275,8 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #D9E4F5;
+  background-image: linear-gradient(315deg, #D9E4F5 0%, #F5E3E6 74%);
   margin: 0 -20px 20px -20px;
 }
 
