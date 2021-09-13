@@ -260,8 +260,19 @@ button {
 /*********************
 * Color
 *********************/
-.bg-color--keycolor {
-  background-color: #39b54a;
+.bg-color--keycolor1 {
+  background-color: #DDCAD9;
+  background-image: linear-gradient(315deg, #DDCAD9 0%, #D1B1CB 74%);
+}
+
+.bg-color--keycolor2 {
+  background-color #AEE1F9;
+  background-image linear-gradient(315deg, #AEE1F9 0%, #F6EBE6 74%);
+}
+
+.bg-color--keycolor3 {
+  background-color: #F9C1B1;
+  background-image: linear-gradient(315deg, #F9C1B1 0%, #FB8085 74%);
 }
 
 .bg-color--subcolor {
