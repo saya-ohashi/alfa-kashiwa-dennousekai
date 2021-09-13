@@ -402,6 +402,23 @@ button {
   height: 24px;
 }
 
+.start_btn {
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+  color: #fff;
+  font-size: 24px;
+  line-height: 1.54167;
+  text-align: center;
+  padding: 11.5px;
+  width: calc(100% - 40px);
+  max-width: 700px;
+  margin: 10px auto;
+  position: relative;
+  background-color: #F9C5D1;
+  background-image: linear-gradient(315deg, #F9C5D1 0%, #9795EF 74%);
+}
+
 /****************
 * header
 *****************/
@@ -517,8 +534,10 @@ button {
   left: calc(50% - 144px);
   width: 288px;
   margin: 0;
-  background-color: #F9C5D1;
+  color: #F9C5D1;
   background-image: linear-gradient(315deg, #F9C5D1 0%, #9795EF 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /********************
