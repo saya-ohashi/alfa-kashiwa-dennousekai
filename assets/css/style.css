@@ -312,6 +312,15 @@ button {
   margin: 0 -20px 20px -20px;
 }
 
+.section-title2 {
+  font-size: 24px;
+  line-height: 1.75;
+  text-align: center;
+  padding: 9px 20px;
+  background-color: #FFFFFF;
+  background-image: linear-gradient(315deg, #FFFFFF 0%, #D7E1EC 74%);
+  margin: 0 -20px 20px -20px;
+}
 .section-title__stage1 {
   background-color: #FDE7F9;
   background-image: linear-gradient(315deg, #FDE7F9 0%, #AACAEF 74%);
