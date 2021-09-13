@@ -509,22 +509,6 @@ button {
   color: #006837;
   font-size: 30px;
   padding-bottom: 10px;
-  margin-bottom: 35px;
-}
-
-.clear-message__title::after {
-  content: '';
-  position: absolute;
-  display: block;
-  width: 183px;
-  height: 2px;
-  background-color: #fff;
-  bottom: 0;
-  left: calc(50% - (183px/2));
-}
-
-.clear-message__content {
-  text-align: center;
 }
 
 .clear-message__btn {
