@@ -378,7 +378,8 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #F9C5D1;
+  background-image: linear-gradient(315deg, #F9C5D1 0%, #9795EF 74%);
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
