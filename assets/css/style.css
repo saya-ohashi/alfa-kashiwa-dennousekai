@@ -298,7 +298,15 @@ button {
   background-image: linear-gradient(315deg, #F9C1B1 0%, #FB8085 74%);
 }
 
-.section-title--keycolorlight .section-title__stage {
+.section-title--keycolorlight1 .section-title__stage {
+  color: #fff;
+}
+
+.section-title--keycolorlight2 .section-title__stage {
+  color: #fff;
+}
+
+.section-title--keycolorlight3 .section-title__stage {
   color: #fff;
 }
 
