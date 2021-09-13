@@ -111,7 +111,7 @@ app.component('answer-input', {
         <input type="text" v-model="inputAnswer" placeholder="ここに答えを入力しよう">
       </div>
       <p v-if="message === ngMessage" class="err-message">{{ message }}</p>
-      <button v-on:click="judgement(inputAnswer)">送信</button>
+      <button v-on:click="judgement(inputAnswer)" class="send-button">送信</button>
       <p v-if="message === okMessage" class="err-message">{{ message }}</p>
     </div>`,
   methods: {
