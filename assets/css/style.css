@@ -522,8 +522,10 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  background-color: #FFFFFF;
+  color: #FFFFFF;
   background-image: linear-gradient(315deg, #FFFFFF 0%, #D7E1EC 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-size: 30px;
   padding-bottom: 10px;
 }
@@ -534,10 +536,8 @@ button {
   left: calc(50% - 144px);
   width: 288px;
   margin: 0;
-  color: #F9C5D1;
+  background-color: #F9C5D1;
   background-image: linear-gradient(315deg, #F9C5D1 0%, #9795EF 74%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 /********************
