@@ -473,7 +473,7 @@ button {
 *****************/
 .header {
   background-color: #fff;
-  height: 200px;
+  height: 60px;
 }
 
 .header .container {
@@ -490,13 +490,13 @@ button {
 }
 
 .header__logo {
-  width: 290px;
-  height: 200px;
+  width: 330px;
+  height: 42px;
 }
 
 .header__name {
   font-size: 20px;
-  
+  line-height: 1.1;
 }
 
 .footer {
