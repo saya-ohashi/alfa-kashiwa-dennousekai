@@ -594,6 +594,11 @@ button {
 ********************/
 .text-center {
   text-align: center;
+  line-height: 2;
+}
+
+.text-center1 {
+  text-align: center;
 }
 
 .text-left {
