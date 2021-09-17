@@ -146,6 +146,10 @@ button {
   width: 100%;
 }
 
+.column2 {
+  width: 50%;
+}
+
 .card {
   background-color: #fff;
   margin-bottom: 20px;
