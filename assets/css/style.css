@@ -165,11 +165,6 @@ button {
   cursor: pointer;
 }
 
-.card__content {
-  text-align: center;
-  line-height: 2;
-}
-
 .card__content1 {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -219,6 +214,7 @@ button {
 .hint-page .card__content {
   display: none;
   text-align: center;
+  line-height: 2;
 }
 
 .hint-page .card__arrow {
