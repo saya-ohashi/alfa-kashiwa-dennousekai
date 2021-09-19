@@ -165,6 +165,11 @@ button {
   cursor: pointer;
 }
 
+.card__content {
+  text-align: center;
+  line-height: 2;
+}
+
 .card__content1 {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
