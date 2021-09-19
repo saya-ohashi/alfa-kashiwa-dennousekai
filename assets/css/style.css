@@ -225,7 +225,8 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  color: #D9E4F5;
+  background-image: linear-gradient(315deg, #D9E4F5 0%, #F5E3E6 74%);
   width: 12px;
   height: 24px;
 }
