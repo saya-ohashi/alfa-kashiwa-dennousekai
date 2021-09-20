@@ -1,6 +1,6 @@
 $(function() {
 	setTimeout(function(){
-		$('.start p').fadeIn(1600);
+		$('.start p').fadeIn(1200);
 	},500); //0.5秒後にロゴをフェードイン!
 	setTimeout(function(){
 		$('.start').fadeOut(500);
